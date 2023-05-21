@@ -1,0 +1,1 @@
+jmeter -n -t D:\Users\aaydemir\Desktop\insiderPerfTest\insiderN11.jmx -l D:\Users\aaydemir\Desktop\insiderPerfTest\PerfTestResults\gen-HTMLreport.jtl -e -o D:\Users\aaydemir\Desktop\insiderPerfTest\PerfTestResults\Report

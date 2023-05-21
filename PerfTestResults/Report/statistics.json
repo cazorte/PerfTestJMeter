@@ -1,0 +1,34 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1000,
+    "errorCount" : 100,
+    "errorPct" : 10.0,
+    "meanResTime" : 2981.9799999999996,
+    "medianResTime" : 234.0,
+    "minResTime" : 133.0,
+    "maxResTime" : 28972.0,
+    "pct1ResTime" : 19724.099999999708,
+    "pct2ResTime" : 21095.9,
+    "pct3ResTime" : 21456.99,
+    "throughput" : 29.717682020802375,
+    "receivedKBytesPerSec" : 1651.3064171619615,
+    "sentKBytesPerSec" : 83.05859955423477
+  },
+  "https://www.n11.com/arama?q=insider" : {
+    "transaction" : "https://www.n11.com/arama?q=insider",
+    "sampleCount" : 1000,
+    "errorCount" : 100,
+    "errorPct" : 10.0,
+    "meanResTime" : 2981.9799999999996,
+    "medianResTime" : 234.0,
+    "minResTime" : 133.0,
+    "maxResTime" : 28972.0,
+    "pct1ResTime" : 19724.099999999708,
+    "pct2ResTime" : 21095.9,
+    "pct3ResTime" : 21456.99,
+    "throughput" : 29.717682020802375,
+    "receivedKBytesPerSec" : 1651.3064171619615,
+    "sentKBytesPerSec" : 83.05859955423477
+  }
+}
